@@ -1,1 +1,1 @@
-__all__ = ["dash_client.py", "main"]
+__all__ = ["dash_client.py", "test"]
